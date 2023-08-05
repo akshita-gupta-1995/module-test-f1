@@ -1,0 +1,16 @@
+<svg width="73" height="12" viewBox="0 0 73 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rating" clip-path="url(#clip0_10_250)">
+<g id="Group 3">
+<path id="Star" fill-rule="evenodd" clip-rule="evenodd" d="M5.61539 8.02279L2.31474 10.2447L3.47917 6.52132L0.274837 4.17115L4.29513 4.09189L5.61539 0.41748L6.93564 4.09189L10.9559 4.17115L7.7516 6.52132L8.91603 10.2447L5.61539 8.02279Z" fill="#FF5E3A"/>
+<path id="Star_2" fill-rule="evenodd" clip-rule="evenodd" d="M21.3385 8.02279L18.0378 10.2447L19.2022 6.52132L15.9979 4.17115L20.0182 4.09189L21.3385 0.41748L22.6587 4.09189L26.679 4.17115L23.4747 6.52132L24.6391 10.2447L21.3385 8.02279Z" fill="#FF5E3A"/>
+<path id="Star_3" fill-rule="evenodd" clip-rule="evenodd" d="M37.0616 8.02279L33.7609 10.2447L34.9253 6.52132L31.721 4.17115L35.7413 4.09189L37.0616 0.41748L38.3818 4.09189L42.4021 4.17115L39.1978 6.52132L40.3622 10.2447L37.0616 8.02279Z" fill="#FF5E3A"/>
+<path id="Star_4" fill-rule="evenodd" clip-rule="evenodd" d="M52.7846 8.02279L49.484 10.2447L50.6484 6.52132L47.4441 4.17115L51.4643 4.09189L52.7846 0.41748L54.1049 4.09189L58.1252 4.17115L54.9208 6.52132L56.0852 10.2447L52.7846 8.02279Z" fill="#FF5E3A"/>
+<path id="Star_5" fill-rule="evenodd" clip-rule="evenodd" d="M67.3846 8.02279L64.084 10.2447L65.2484 6.52132L62.0441 4.17115L66.0644 4.09189L67.3846 0.41748L68.7049 4.09189L72.7252 4.17115L69.5208 6.52132L70.6852 10.2447L67.3846 8.02279Z" fill="#FF5E3A"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_10_250">
+<rect width="73" height="10.8647" fill="white" transform="translate(0 0.41748)"/>
+</clipPath>
+</defs>
+</svg>
